@@ -26,7 +26,7 @@
 
 - 😄 My Pronouns: He/Him
 
-- ⚡ Research Interest: Deep-learning, Artificial Intelligence, Affective Computing, Pattern Recognition, Facial Micro-Expression 
+- ⚡ Research Interest: Artificial Intelligence, Affective Computing, Digital Twin, Pattern Recognition
 
 - ✨ Google Scholar: [@profile](https://scholar.google.com/citations?user=bMlKWeQAAAAJ&hl=en)
 
