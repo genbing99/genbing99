@@ -8,7 +8,7 @@
         <samp>
                 「 Innovative and Passionate 」
                 <br>
-                「 A Data Scientist with great enthusiasm 」
+                「 An AI Engineer with great enthusiasm 」
                 <br>
                 「 Never Stop Learning 」
                 <br>
